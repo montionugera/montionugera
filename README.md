@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python Typescript ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML Project
-- 📫 How to reach me montionugera@gmail.com
 
 <!---
 montionugera/montionugera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
