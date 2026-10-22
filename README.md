@@ -1,4 +1,4 @@
-# Hey there, I'm Mont (Pasit Nusso) 👋
+# Hey there, I'm Mont 👋
 
 **Senior Systems & Full-Stack Engineer** based in Bangkok 🇹🇭  
 *I read ASTs for fun, write **Rust** when things need to be fast, **Go** when things need to concur, **Python** when the AI agents start talking back, and **TypeScript** when pixels need to behave.*
